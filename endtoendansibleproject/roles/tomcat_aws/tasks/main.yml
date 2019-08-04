@@ -1,0 +1,3 @@
+---
+# tasks file for tomcat_aws
+- include: awsec2.yml
